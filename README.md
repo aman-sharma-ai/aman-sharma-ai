@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Aman Sharma 👋</h1>
+<h1 align="center">Aman Sharma</h1>
 
-<h3 align="center">AI Engineer · Full-Stack Developer<br/>I build LLM applications and the data pipelines behind them.</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer</h3>
+
+<p align="center">Building Large Language Model applications and the data pipelines that support them.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-sharma-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,65 +12,66 @@
 
 ---
 
-## 🧑‍💻 About me
+## About
 
-- 🧠 **AI Engineer (Full-Stack) at Imbibe Technologies.** I own features end to end: MySQL schema → Flask / FastAPI APIs → React / Next.js UI → automated tests.
-- 🏢 The platforms I build are used by enterprise clients including **Volvo, Spotify, Kemira and H&M**.
-- 📊 Previously **Data Analyst (Python) at Isoftra Digital**, where I automated data validation and reporting (**−12%** reporting turnaround, **+14%** productivity).
-- 🎓 **B.Tech, Computer Science (AI & Data Science)**, Kurukshetra University, 2025.
-- 🔭 Currently focused on **agentic AI workflows** and **LLM-powered document extraction**.
+I am an AI Engineer (Full-Stack) at **Imbibe Technologies Private Limited**, where I design and deliver Generative AI applications end to end, covering MySQL database design, Flask and FastAPI services, React and Next.js interfaces, and automated testing.
+
+- The platforms I develop serve enterprise clients including **Volvo, Spotify, Kemira and H&M**.
+- As a Data Analyst (Python) at **Isoftra Digital Private Limited**, I automated data validation and reporting workflows, reducing reporting turnaround time by **12%** and increasing operational productivity by **14%**.
+- I hold a **B.Tech in Computer Science (Artificial Intelligence and Data Science)** from Kurukshetra University (2025).
+- My current focus is agentic AI workflows and LLM-based document extraction.
 
 ---
 
-## 🏆 What I've shipped at work
+## Professional Highlights
 
-> Client projects, so the code is private. Here's what they do.
+> These are client engagements, so the source code is proprietary.
 
-| Project | What I built | Impact |
+| Project | Contribution | Outcome |
 |---|---|---|
-| **Remuneration Benchmarking Platform**<br/><sub>Nordic board & CEO pay</sub> | Two GPT research bots (OpenAI API + PyMuPDF) that find annual-report PDFs and extract pay data concurrently, with token-cost tracking, retries and logging. ETL into MySQL with full data provenance. | **217 → 89** standard metrics (−59%). Rows under 70% confidence go to a human review queue. **4 report products** generated in one run. |
-| **IRNM: Investor Relations Benchmarking**<br/><sub>Client portal + reporting</sub> | Web portal with per-company login, multi-year score trends, benchmarking and gap analysis. 9-step ETL running as background jobs. | **10 PowerPoint reports per company per year**, enriched with sentiment analysis and a fine-tuned **T5** summarizer. |
-| **Search Rank-Tracking Platform**<br/><sub>Web automation</sub> | Next.js + FastAPI + Selenium, scaled on distributed **Celery + Redis** workers, with retry logic and data-consistency checks. | Weekly, monthly and quarterly rank tracking with **zero manual intervention**. |
+| **Remuneration Benchmarking Platform**<br/><sub>Nordic board and CEO remuneration</sub> | Developed two Generative AI research agents using the OpenAI API and PyMuPDF to locate annual reports and extract remuneration data concurrently, with token-cost tracking, automatic retries and logging. Built an ETL pipeline into MySQL with full data provenance. | Consolidated **217 raw metrics into 89 standard metrics** (a 59% reduction). Records below 70% confidence are routed to a human review queue. **Four report products** are generated from a single data model. |
+| **IRNM: Investor Relations Benchmarking and Reporting Platform** | Developed a client portal with secure per-company access, multi-year score trends, benchmarking and gap analysis, supported by a nine-step ETL pipeline running as background jobs. | Automated **ten PowerPoint report products per company per year**, enriched with NLP sentiment analysis and a fine-tuned **T5** summarization model. |
+| **Search Engine Rank-Tracking and Web Automation Platform** | Built with Next.js, FastAPI and Selenium, and scaled across distributed **Celery and Redis** workers with retry logic and automated data-consistency checks. | Weekly, monthly and quarterly ranking reports are produced **without manual intervention**. |
 
 ---
 
-## 🚀 Featured projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Agentic RAG Chatbot](https://github.com/AmanDataverse/Agentic_RAG_chatbot)
-Ask questions across **PDF, DOCX, PPTX, CSV, TXT and Markdown** files. Three agents (ingestion → retrieval → response) pass structured messages to each other. FAISS + MiniLM embeddings find the context, Llama 3 on Groq writes the answer, and the Streamlit UI shows the source chunks behind every reply.
+### [Agentic RAG Chatbot](https://github.com/AmanDataverse/Agentic_RAG_chatbot)
+A retrieval-augmented generation system for querying PDF, DOCX, PPTX, CSV, TXT and Markdown documents in natural language. Dedicated ingestion, retrieval and response agents exchange structured messages; FAISS with MiniLM embeddings performs semantic retrieval, Llama 3 (via Groq) generates the answers, and a Streamlit interface displays the supporting source passages.
 
-`Python` `Streamlit` `FAISS` `Sentence-Transformers` `Groq`
+**Technologies:** Python, Streamlit, FAISS, Sentence-Transformers, Groq
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [End-to-End ML: Student Performance](https://github.com/AmanDataverse/MLproject)
-EDA plus a comparison of **9 regression models** (Linear, Ridge, Lasso, KNN, Decision Tree, Random Forest, XGBoost, CatBoost, AdaBoost) to predict math scores. Best: **Ridge, R² ≈ 0.88** on the test set. Also includes a real-time **driver drowsiness detector** (OpenCV + dlib).
+### [Student Performance Prediction](https://github.com/AmanDataverse/MLproject)
+An end-to-end machine learning study comparing nine regression models (Linear, Ridge, Lasso, K-Nearest Neighbors, Decision Tree, Random Forest, XGBoost, CatBoost and AdaBoost) to predict mathematics scores. Ridge regression performed best, with an **R² of 0.88** on the test set. The repository also includes a real-time driver drowsiness detection system.
 
-`Scikit-learn` `XGBoost` `CatBoost` `OpenCV`
+**Technologies:** Scikit-learn, XGBoost, CatBoost, OpenCV, dlib
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Power BI Dashboards](https://github.com/AmanDataverse/Reports-PowerBI)
-**10 interactive dashboards**: Superstore and sales performance, Amazon Basics, Zomato, HR analytics, COVID-19, Olympics, web traffic and e-commerce.
+### [Power BI Dashboards](https://github.com/AmanDataverse/Reports-PowerBI)
+A portfolio of **ten interactive business intelligence dashboards** covering retail and sales performance, Amazon Basics, Zomato, HR analytics, COVID-19, the Olympics, web analytics and e-commerce.
 
-`Power BI` `Data Modeling`
+**Technologies:** Power BI, Power Query, DAX
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Exploratory Data Analysis](https://github.com/AmanDataverse/EDA)
-**Black Friday:** EDA and feature engineering on retail purchase data.<br/>
-**Zomato:** ratings, missing values and online-delivery patterns across countries.
+### [Exploratory Data Analysis](https://github.com/AmanDataverse/EDA)
+**Black Friday:** exploratory analysis and feature engineering on more than 550,000 retail transactions.<br/>
+**Zomato:** analysis of restaurant ratings, data quality and online-delivery availability across countries.
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+**Technologies:** Pandas, NumPy, Matplotlib, Seaborn
 
 </td>
 </tr>
@@ -76,27 +79,27 @@ EDA plus a comparison of **9 regression models** (Linear, Ridge, Lasso, KNN, Dec
 
 ---
 
-## 🛠️ Tech stack
+## Technical Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,flask,fastapi,mysql,redis,docker,git,github,selenium,sklearn,postman&perline=8" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,flask,fastapi,mysql,redis,docker,git,github,selenium,sklearn,postman&perline=8" alt="Python, JavaScript, HTML, CSS, React, Next.js, Flask, FastAPI, MySQL, Redis, Docker, Git, GitHub, Selenium, Scikit-learn, Postman"/>
 </p>
 
-**AI / ML**&nbsp;
+**AI and Machine Learning**&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP%20%7C%20T5%20Fine--Tuning-6E40C9?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20%7C%20FAISS-0467DF?style=flat-square)
 
-**Data**&nbsp;
+**Data Engineering and Analytics**&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-2E7D32?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
 
-**Backend & automation**&nbsp;
+**Backend and Automation**&nbsp;
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 ![python-pptx](https://img.shields.io/badge/python--pptx-B7472A?style=flat-square)
@@ -104,10 +107,12 @@ EDA plus a comparison of **9 regression models** (Linear, Ridge, Lasso, KNN, Dec
 
 ---
 
-## 💬 Ask me about
+## Areas of Expertise
 
-RAG pipelines · extracting structured data from PDFs with LLMs · Flask / FastAPI backends · ETL and data-quality automation · auto-generating PowerPoint and PDF reports
+Retrieval-augmented generation · Structured data extraction from documents with LLMs · Backend development with Flask and FastAPI · ETL and data-quality automation · Automated PowerPoint and PDF report generation
+
+---
 
 <p align="center">
-  <sub>📫 Best way to reach me: <a href="https://www.linkedin.com/in/aman-sharma-ai">LinkedIn</a> or <a href="mailto:amansharma9605@gmail.com">email</a></sub>
+  <sub>For professional inquiries, please contact me via <a href="https://www.linkedin.com/in/aman-sharma-ai">LinkedIn</a> or <a href="mailto:amansharma9605@gmail.com">email</a>.</sub>
 </p>
