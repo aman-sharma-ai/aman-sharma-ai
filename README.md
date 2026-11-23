@@ -41,7 +41,7 @@ I am an AI Engineer (Full-Stack) at **Imbibe Technologies Private Limited**, whe
 <tr>
 <td width="50%" valign="top">
 
-### [Agentic RAG Chatbot](https://github.com/AmanDataverse/Agentic_RAG_chatbot)
+### [Agentic RAG Chatbot](https://github.com/aman-sharma-ai/Agentic_RAG_chatbot)
 A retrieval-augmented generation system for querying PDF, DOCX, PPTX, CSV, TXT and Markdown documents in natural language. Dedicated ingestion, retrieval and response agents exchange structured messages; FAISS with MiniLM embeddings performs semantic retrieval, Llama 3 (via Groq) generates the answers, and a Streamlit interface displays the supporting source passages.
 
 **Technologies:** Python, Streamlit, FAISS, Sentence-Transformers, Groq
@@ -49,7 +49,7 @@ A retrieval-augmented generation system for querying PDF, DOCX, PPTX, CSV, TXT a
 </td>
 <td width="50%" valign="top">
 
-### [Student Performance Prediction](https://github.com/AmanDataverse/MLproject)
+### [Student Performance Prediction](https://github.com/aman-sharma-ai/MLproject)
 An end-to-end machine learning study comparing nine regression models (Linear, Ridge, Lasso, K-Nearest Neighbors, Decision Tree, Random Forest, XGBoost, CatBoost and AdaBoost) to predict mathematics scores. Ridge regression performed best, with an **R² of 0.88** on the test set. The repository also includes a real-time driver drowsiness detection system.
 
 **Technologies:** Scikit-learn, XGBoost, CatBoost, OpenCV, dlib
@@ -59,7 +59,7 @@ An end-to-end machine learning study comparing nine regression models (Linear, R
 <tr>
 <td width="50%" valign="top">
 
-### [Power BI Dashboards](https://github.com/AmanDataverse/Reports-PowerBI)
+### [Power BI Dashboards](https://github.com/aman-sharma-ai/Reports-PowerBI)
 A portfolio of **ten interactive business intelligence dashboards** covering retail and sales performance, Amazon Basics, Zomato, HR analytics, COVID-19, the Olympics, web analytics and e-commerce.
 
 **Technologies:** Power BI, Power Query, DAX
@@ -67,7 +67,7 @@ A portfolio of **ten interactive business intelligence dashboards** covering ret
 </td>
 <td width="50%" valign="top">
 
-### [Exploratory Data Analysis](https://github.com/AmanDataverse/EDA)
+### [Exploratory Data Analysis](https://github.com/aman-sharma-ai/EDA)
 **Black Friday:** exploratory analysis and feature engineering on more than 550,000 retail transactions.<br/>
 **Zomato:** analysis of restaurant ratings, data quality and online-delivery availability across countries.
 
