@@ -112,8 +112,7 @@ A portfolio of **ten interactive business intelligence dashboards** covering ret
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aman-sharma-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide=stars,issues,prs&custom_title=GitHub%20Statistics&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" alt="GitHub statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=aman-sharma-ai&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=aman-sharma-ai&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
