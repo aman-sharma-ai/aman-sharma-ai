@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aman-sharma-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aman-sharma-ai"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
   <a href="mailto:amansharma9605@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Haryana%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location: Haryana, India"/>
@@ -132,7 +133,7 @@ Retrieval-augmented generation · Structured data extraction from documents with
 ---
 
 <p align="center">
-  <sub>For professional inquiries, please contact me via <a href="https://www.linkedin.com/in/aman-sharma-ai">LinkedIn</a> or <a href="mailto:amansharma9605@gmail.com">email</a>.</sub>
+  <sub>For professional inquiries, please contact me via <a href="https://www.linkedin.com/in/aman-sharma-ai">LinkedIn</a> or <a href="mailto:amansharma9605@gmail.com">email</a>, or visit my <a href="https://aman-sharma-ai.vercel.app">portfolio</a>.</sub>
 </p>
 
 <p align="center">
